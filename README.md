@@ -1,2 +1,2 @@
-# JavascriptIntro
-All projects from the fundamental Javascript section of The Odin Project
+# JavascriptIntro (Fundamentals Part 3)
+Assignment from the fundamental part 3Javascript section of The Odin Project
